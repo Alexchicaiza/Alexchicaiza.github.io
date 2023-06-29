@@ -1,0 +1,132 @@
+.e66_2 { 
+	overflow:hidden;
+}
+.e66_2 { 
+	background-color:rgba(243.51171165704727, 237.42392152547836, 237.42392152547836, 1);
+	width:1481px;
+	height:1024px;
+	position:absolute;
+}
+.e66_6 { 
+	background-color:rgba(24.43749949336052, 22.19739619642496, 22.19739619642496, 1);
+	width:1386px;
+	height:101px;
+	position:absolute;
+	left:53px;
+	top:21px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+}
+.e66_3 { 
+	width:1397px;
+	height:690px;
+	position:absolute;
+	left:42px;
+	top:284px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+	background-image:url(images/rectangle_39_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e66_4 { 
+	color:rgba(24.463341906666756, 21.38277880847454, 21.38277880847454, 1);
+	width:1393px;
+	height:179px;
+	position:absolute;
+	left:58px;
+	top:172px;
+	font-family:Kavoon;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:10;
+}
+.e66_5 { 
+	width:482px;
+	height:70px;
+	position:absolute;
+	left:931px;
+	top:36px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+	background-image:url(images/rectangle_39.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e66_7 { 
+	color:rgba(255, 255, 255, 1);
+	width:1366px;
+	height:39px;
+	position:absolute;
+	left:115px;
+	top:52px;
+	font-family:Irish Grover;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e66_14 { 
+	background-color:rgba(9.56250037997961, 7.689843541011214, 7.689843541011214, 1);
+	width:289px;
+	height:85px;
+	position:absolute;
+	left:1058px;
+	top:865px;
+	border-radius:100px;
+}
+.e66_15 { 
+	color:rgba(255, 255, 255, 1);
+	width:169px;
+	height:22px;
+	position:absolute;
+	left:1118px;
+	top:876px;
+	font-family:Inknut Antiqua;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:10;
+}
+.button {
+  position:absolute;
+	left:1118px;
+	top:876px;
+  background-color: rgb(230, 34, 77);
+  border-radius: 5px;
+  box-shadow: rgb(121, 18, 55) 0px 4px 0px 0px;
+  padding: 15px;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  width: 154px;
+  height: 60px;
+  color: #fff;
+  border: none;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.button::before {
+  content: "";
+  background-color: rgb(248, 50, 93);
+  width: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  transition: width 700ms ease-in-out;
+  display: inline-block;
+}
+
+.button:hover::before {
+  width: 100%;
+}

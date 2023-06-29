@@ -1,0 +1,115 @@
+.e66_90 { 
+	overflow:hidden;
+}
+.e66_90 { 
+	background-color:rgba(244.0000006556511, 237.0000010728836, 237.0000010728836, 1);
+	width:1481px;
+	height:1024px;
+	position:absolute;
+}
+.e66_91 { 
+	transform: rotate(-0.28242387585585654deg);
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:1435.3319091796875px;
+	height:119.05994415283203px;
+	position:absolute;
+	left:22px;
+	top:53.0750732421875px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+}
+.e66_92 { 
+	color:rgba(0, 0, 0, 1);
+	width:849px;
+	height:76px;
+	position:absolute;
+	left:316px;
+	top:71px;
+	font-family:Irish Grover;
+	text-align:center;
+	font-size:68px;
+	letter-spacing:0;
+}
+/*
+.e66_94 { 
+	color:rgba(255, 255, 255, 1);
+	width:185px;
+	height:41px;
+	position:absolute;
+	left:1209px;
+	top:932px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+*/
+.comic-button {
+    position:absolute;
+	left:1209px;
+	top:932px;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #ff5252;
+    border: 2px solid #000;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px #000;
+    transition: all 0.3s ease;
+  }
+  
+  .comic-button:hover {
+    background-color: #fff;
+    color: #ff5252;
+    border: 2px solid #ff5252;
+    box-shadow: 5px 5px 0px #ff5252;
+  }
+  
+  .comic-button:active {
+    background-color: #fcf414;
+    box-shadow: none;
+    transform: translateY(4px);
+  }
+  
+.e66_96 { 
+	color:rgba(15.9375, 12.484375443309546, 12.484375443309546, 1);
+	width:706px;
+	height:485px;
+	position:absolute;
+	left:70px;
+	top:470px;
+	font-family:JetBrains Mono;
+    font-size: 35px;
+	text-align:center;
+	letter-spacing:0;
+}
+.e66_98 { 
+	width:612px;
+	height:408px;
+	position:absolute;
+	left:33px;
+	top:716px;
+	background-image:url(images/imagen_2023_06_28_204230496_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e66_99 { 
+	width:601px;
+	height:618px;
+	position:absolute;
+	left:819px;
+	top:243px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+	background-image:url(images/image_6_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
